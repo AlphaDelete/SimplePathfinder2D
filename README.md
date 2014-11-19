@@ -23,12 +23,8 @@ The script is working fine, but the sprite movement its a bit laggy in the 2D ve
 
 ### Credits ###
 
-####Creator :
-
-[Mas Overflow](https://plus.google.com/117251102541735862739/posts)
-
-####2D Physics Convert :
-[Alpha Delete] (http://alphadelete.tumblr.com)
+Creator : [Mas Overflow](https://plus.google.com/117251102541735862739/posts)
+2D Convert : [Alpha Delete] (http://alphadelete.tumblr.com)
 
 ### Original 3D Script ###
 
