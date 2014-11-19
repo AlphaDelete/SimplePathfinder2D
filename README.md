@@ -29,8 +29,8 @@ The script is working fine, but the sprite movement its a bit laggy in the 2D ve
 
 ### Original 3D Script ###
 
-[Video Tutorial] (https://www.youtube.com/watch?v=Uwn_QFjbl1k)
-[Download] (https://dl.dropboxusercontent.com/u/167909980/PathfinderDemo.rar)
+* [Video Tutorial] (https://www.youtube.com/watch?v=Uwn_QFjbl1k)
+* [Download] (https://dl.dropboxusercontent.com/u/167909980/PathfinderDemo.rar)
 
 
 
